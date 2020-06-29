@@ -8,3 +8,5 @@ Diese Beschreibung beschreibt das zu beschreibende Objekt nicht zu knapp, aber a
 
 Wie Homer zu sagen pflegte:
 > Doh!
+
+<img src="https://de.wikipedia.org/wiki/Mops#/media/Datei:Mops-falk-vom-maegdebrunnen-internationaler-champion-fci.jpg"/>
