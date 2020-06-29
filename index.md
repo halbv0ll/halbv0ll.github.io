@@ -5,3 +5,6 @@ Diese Beschreibung beschreibt das zu beschreibende Objekt nicht zu knapp, aber a
 * Sie wissen nicht, wo vorne ist
 * Sie haben keine Beine
 * Sie halten Laufen für eine primitive Fortbewegungsart
+
+Wie Homer zu sagen pflegte:
+> Doh!
